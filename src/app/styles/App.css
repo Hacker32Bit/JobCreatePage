@@ -1,0 +1,28 @@
+.App-header {
+  background-color: #CFD8DC;
+  display: inline-block;
+  width: 100%;
+  border-bottom: 2px solid #B0BEC5;
+}
+
+.App-header .title {
+  float: left;
+  padding: 0px 15px;
+}
+
+.App-header .close {
+  float: right;
+}
+
+.close button {
+  font-size: 20px;
+  height: 60px;
+  width: 60px;
+  border: 0;
+  background-color: #CFD8DC;
+}
+
+.close button:hover {
+  cursor: pointer;
+  background-color: #B0BEC5;
+}
