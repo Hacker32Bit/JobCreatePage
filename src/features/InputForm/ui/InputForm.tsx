@@ -53,8 +53,8 @@ const InputForm: FC = () => {
       date,
       startTime,
       endTime,
-      testSelect}
-    );
+      testSelect,
+    });
 
     // TODO send request using Pipedrive API...
   };
@@ -252,7 +252,9 @@ const InputForm: FC = () => {
         </div>
       </div>
       <div className="buttons">
-        <button className="yellow" onClick={handleData}>Create job</button>
+        <button className="yellow" onClick={handleData}>
+          Create job
+        </button>
         <button onClick={handleData}>Save info</button>
       </div>
     </form>

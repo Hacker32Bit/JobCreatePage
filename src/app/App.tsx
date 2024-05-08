@@ -3,7 +3,6 @@ import "./styles/App.css";
 import InputFormPage from "pages/InputFormPage";
 
 const App = () => {
-
   const closeTab = () => {
     window.opener = null;
     window.open("", "_self");

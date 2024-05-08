@@ -1,8 +1,8 @@
 .App-header {
-  background-color: #CFD8DC;
+  background-color: #cfd8dc;
   display: inline-block;
   width: 100%;
-  border-bottom: 2px solid #B0BEC5;
+  border-bottom: 2px solid #b0bec5;
 }
 
 .App-header .title {
@@ -19,10 +19,10 @@
   height: 60px;
   width: 60px;
   border: 0;
-  background-color: #CFD8DC;
+  background-color: #cfd8dc;
 }
 
 .close button:hover {
   cursor: pointer;
-  background-color: #B0BEC5;
+  background-color: #b0bec5;
 }

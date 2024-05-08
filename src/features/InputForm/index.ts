@@ -1,3 +1,3 @@
 import InputForm from "./ui/InputForm";
 
-export default InputForm
+export default InputForm;

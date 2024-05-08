@@ -1,7 +1,7 @@
 import InputForm from "features/InputForm";
 import { FC } from "react";
 
-import "./InputFormPage.css"
+import "./InputFormPage.css";
 
 const InputFormPage: FC = () => {
   return (
